@@ -63,7 +63,7 @@
 
 ## Contributions in the Last 30 Days
 <div align="center" style="width: 100%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achnouri&theme=xcode&color=9A9A9A&hide_border=true&days=30&bg_color=00000000&area=true&custom_title=Contributions%20in%20the%20last%2030%20days&title_color=dbdbdb&height=600" style="width: 100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achnouri&theme=xcode&color=9A9A9A&hide_border=true&days=365&bg_color=00000000&area=true&custom_title=Contributions%20in%20the%20last%2030%20days&title_color=dbdbdb&height=600" style="width: 100%" />
 </div>
 
 ---
