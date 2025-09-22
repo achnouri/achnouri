@@ -1,5 +1,5 @@
 # Hi, I'm Achraf Nouri 👋
-### Student at <a href="">*`1337`*</a>, part of the <a href="">*`42`*</a> Network, Khouribga Campus  
+### Student at <a href="">*`1337`*</a>, part of the <a href="">*`42`*</a> Network
 
 ---
 
