@@ -16,7 +16,9 @@
     <a href="https://github.com/achnouri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
   
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-ashrafnr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashrafnr)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ashrafnr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashrafnr)
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-1859770-black?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://app.hackthebox.com/profile/1859770)
 
 </div>
 
