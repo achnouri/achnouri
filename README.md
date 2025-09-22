@@ -55,6 +55,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=achnouri&theme=xcode&color=9A9A9A&hide_border=true&days=30&bg_color=00000000&area=true&custom_title=Contributions%20in%20the%20last%2030%20days&title_color=dbdbdb&height=600" style="width: 100%" />
 </div>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3277563" style='border:none;'></iframe>
+---
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ashrafnr-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashrafnr)
 
