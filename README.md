@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <a href="<a href="https://github.com/achnouri"><img src="https://badge.mediaplus.ma/bluebinary/achnouri"/></a>
+  <a href="<img src="https://badge.mediaplus.ma/bluebinary/achnouri"/></a>
 </div>
 
 ---
