@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/TryHackMe-achnr-blue?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/profile/1859770">
-    <img src="https://img.shields.io/badge/HackTheBox-1859770-black?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackTheBox-achnr-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />
   </a>
 </p>
 
