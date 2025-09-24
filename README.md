@@ -33,19 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center" width="100%">
-  <a href="https://github.com/achnouri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achnouri&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C,Perl,Java,CMake,HTML&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" width="37%" />
-  </a>
-  <a href="https://github.com/achnouri">
-    <img src="https://github-readme-stats.vercel.app/api?username=achnouri&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=false&border_color=2c2f34&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats%20(1%20Year)&title_color=dbdbdb" width="58%" />
-  </a>
-</div>
-
----
-
 ## 📈 Contributions in the Last Year  
 
 <div align="center" style="width: 100%">
