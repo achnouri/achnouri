@@ -12,8 +12,6 @@
 
 ---
 
----
-
 <div align="center">
   <a href="<a href="https://github.com/achnouri/badge42"><img src="https://badge.mediaplus.ma/bluebinary/achnouri"/></a>
  </div>
