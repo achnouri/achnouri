@@ -22,7 +22,7 @@
   </a>
   <a href="https://github.com/achnouri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a><br>
+  </a><br><br>
   <a href="https://tryhackme.com/p/achnr">
     <img src="https://img.shields.io/badge/TryHackMe-achnr-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
