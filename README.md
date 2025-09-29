@@ -1,18 +1,8 @@
 # Hi, I'm Achraf Nouri 👋  
 ### Student at <a href="">*`1337`*</a>, part of the <a href="">*`42`*</a> Network  
 
----
 
 <div align="center">
-  <p>
-    Passionate about : programming, cybersecurity, algorithms, and system-level projects.  
-    Focused on : C, C++, Python, AI, Web Development, and Security Research.  
-  </p>
-</div>
-
----
-
-<!-- <div align="center">
   <a href="<a href="https://github.com/achnouri/badge42"><img src="https://badge.mediaplus.ma/bluebinary/achnouri"/></a>
 </div>
 <br> -->
@@ -31,11 +21,10 @@
   </a>
 </p>
 
-<!---
 
 ## 📊 GitHub Stats  
 
-<!-- <div align="center" width="100%">
+<div align="center" width="100%">
   <a href="https://github.com/achnouri">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achnouri&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C,CPP,CMake,HTML,BASH,SH&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" width="37%" />
   </a>
@@ -70,7 +59,7 @@
 <img src="https://img.shields.io/badge/Metasploit-FF6F61?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-9A00FF?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1B9AD4?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PortSwigger-FF6A00?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/PortSwigger-FF6A00?style=for-the-badge&logo=portswigger&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-EE6C4D?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -82,4 +71,3 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
------>
