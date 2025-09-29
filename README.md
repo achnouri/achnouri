@@ -12,10 +12,10 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="<a href="https://github.com/achnouri/badge42"><img src="https://badge.mediaplus.ma/bluebinary/achnouri"/></a>
 </div>
-<br>
+<br> -->
 <p align="center">
   <a href="https://www.linkedin.com/in/achraf-nouri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
