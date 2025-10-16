@@ -21,7 +21,7 @@
   </a>
 </p>
 
-
+<!--
 ## 📊 GitHub Stats  
 
 <div align="center" width="100%">
@@ -35,7 +35,7 @@
 
 ---
 
-<!--
+
 ## 🛠️ Tech Stack  
 
 <div align="center">
