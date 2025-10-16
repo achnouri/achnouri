@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/achraf-nouri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/achnouri">
+  <!--<a href="https://github.com/achnouri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a><br>
   <a href="https://tryhackme.com/p/achnr">
@@ -19,7 +19,7 @@
   </a>
   <a href="https://app.hackthebox.com/profile/1859770">
     <img src="https://img.shields.io/badge/HackTheBox-achnr-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />
-  </a>
+  </a>-->
 </p>
 
 <!--
