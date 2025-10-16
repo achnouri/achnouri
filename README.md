@@ -1,10 +1,11 @@
 # Hi, I'm Achraf Nouri 👋  
 ### Student at <a href="">*`1337`*</a>, part of the <a href="">*`42`*</a> Network  
 
-
+<!--
 <div align="center">
   <a href="<a href="https://github.com/achnouri/badge42"><img src="https://badge.mediaplus.ma/bluebinary/achnouri"/></a>
 </div>
+-->
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/achraf-nouri/">
